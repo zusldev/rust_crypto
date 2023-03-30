@@ -12,14 +12,24 @@ The program will retrieve the price information from the API and display it on t
 
 ### Example
 ```
-Bienvenido a la búsqueda de criptomonedas!
 Escribe el nombre de la criptomoneda que quieres buscar o escribe 'exit' para salir
 ----------------------------------------------------
-Ejemplo de solicitud: bitcoin, ethereum, dogecoin, etc.
+Ejemplo de solicitud: ✅bitcoin, ✅ethereum, ✅dogecoin, etc.
+puedes buscar con espacios, por ejemplo: ✅bitcoin cash
 ----------------------------------------------------
-dogecoin
+
+⌛ Buscando información sobre bitcoin cash ⌛
+
 ----------****************************--------------
-El precio de dogecoin es $0.138098
+El precio de bitcoin cash es $123.46 USD 💰
 ----------****************************--------------
+
+Escribe el nombre de la criptomoneda que quieres buscar o escribe 'exit' para salir
+----------------------------------------------------
+Ejemplo de solicitud: ✅bitcoin, ✅ethereum, ✅dogecoin, etc.
+puedes buscar con espacios, por ejemplo: ✅bitcoin cash
+----------------------------------------------------
+exit
+¡Hasta luego! 🚀  
 
 ```
